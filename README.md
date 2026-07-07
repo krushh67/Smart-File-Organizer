@@ -34,7 +34,8 @@ A modern desktop application built with **Python** and **Tkinter** that automati
 ## 🏠 Home Screen
 
 <p align="center">
-<img src="assets/home.png" width="750">
+<img <img width="870" height="911" alt="Screenshot 2026-07-07 140851" src="https://github.com/user-attachments/assets/b9586f2b-bae1-4f48-862c-fe2dcf27fc10" />
+ width="750">
 </p>
 
 ---
@@ -44,15 +45,6 @@ A modern desktop application built with **Python** and **Tkinter** that automati
 <p align="center">
 <img <img width="847" height="860" alt="Screenshot 2026-07-07 141003" src="https://github.com/user-attachments/assets/1f6744bb-8318-4c75-be26-bf14f614dd10" />
 <img width="870" height="911" alt="Screenshot 2026-07-07 140851" src="https://github.com/user-attachments/assets/df79b4b9-cb78-4a8c-a422-607f0e217cb8" />
- width="750">
-</p>
-
----
-
-## 📊 File Organization Summary
-
-<p align="center">
-<img <img width="847" height="860" alt="Screenshot 2026-07-07 141003" src="https://github.com/user-attachments/assets/614309c9-e4eb-48ac-a81f-856b58d0f100" />
  width="750">
 </p>
 

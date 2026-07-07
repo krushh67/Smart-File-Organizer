@@ -185,7 +185,11 @@ If needed, clicking **Undo Last Operation** restores all files to their original
 * 🔍 File Search
 
 ---
+# **📚 Learning Project**
 
+This project was developed as part of my Python learning journey to strengthen my understanding of GUI development, file handling, modular programming, and desktop application design. It is intended for educational purposes while following clean coding practices and real-world software organization.
+
+---
 # 👩‍💻 Author
 
 **Krushnali Vikas Patil**
@@ -193,6 +197,3 @@ If needed, clicking **Undo Last Operation** restores all files to their original
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ---
-# **📚 Learning Project**
-
-This project was developed as part of my Python learning journey to strengthen my understanding of GUI development, file handling, modular programming, and desktop application design. It is intended for educational purposes while following clean coding practices and real-world software organization.

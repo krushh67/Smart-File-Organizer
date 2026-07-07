@@ -44,8 +44,7 @@ A modern desktop application built with **Python** and **Tkinter** that automati
 
 <p align="center">
 <img <img width="847" height="860" alt="Screenshot 2026-07-07 141003" src="https://github.com/user-attachments/assets/1f6744bb-8318-4c75-be26-bf14f614dd10" />
-<img width="870" height="911" alt="Screenshot 2026-07-07 140851" src="https://github.com/user-attachments/assets/df79b4b9-cb78-4a8c-a422-607f0e217cb8" />
- width="750">
+width="750">
 </p>
 
 ---

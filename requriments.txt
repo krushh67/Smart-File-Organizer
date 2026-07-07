@@ -1,0 +1,6 @@
+* Python
+* Tkinter
+* tkinterdnd2
+* JSON
+* shutil
+* os

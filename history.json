@@ -1,0 +1,22 @@
+[
+    {
+        "source": "C:/Users/Krushnali/Desktop/KRUSHNALI\\idcard.jpg",
+        "destination": "C:/Users/Krushnali/Desktop/KRUSHNALI\\Images\\idcard.jpg"
+    },
+    {
+        "source": "C:/Users/Krushnali/Desktop/KRUSHNALI\\krushnali-adhar.jpg",
+        "destination": "C:/Users/Krushnali/Desktop/KRUSHNALI\\Images\\krushnali-adhar.jpg"
+    },
+    {
+        "source": "C:/Users/Krushnali/Desktop/KRUSHNALI\\krushnali-photo.jpg",
+        "destination": "C:/Users/Krushnali/Desktop/KRUSHNALI\\Images\\krushnali-photo.jpg"
+    },
+    {
+        "source": "C:/Users/Krushnali/Desktop/KRUSHNALI\\krushnali-photo.png",
+        "destination": "C:/Users/Krushnali/Desktop/KRUSHNALI\\Images\\krushnali-photo.png"
+    },
+    {
+        "source": "C:/Users/Krushnali/Desktop/KRUSHNALI\\signature.jpeg",
+        "destination": "C:/Users/Krushnali/Desktop/KRUSHNALI\\Images\\signature.jpeg"
+    }
+]

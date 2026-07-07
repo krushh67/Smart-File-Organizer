@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
 A modern desktop application built with **Python** and **Tkinter** that automatically organizes files into categorized folders based on their extensions.
 
@@ -43,7 +42,9 @@ A modern desktop application built with **Python** and **Tkinter** that automati
 ## 🖱️ Drag & Drop Folder
 
 <p align="center">
-<img src="assets/drag_drop.png" width="750">
+<img <img width="847" height="860" alt="Screenshot 2026-07-07 141003" src="https://github.com/user-attachments/assets/1f6744bb-8318-4c75-be26-bf14f614dd10" />
+<img width="870" height="911" alt="Screenshot 2026-07-07 140851" src="https://github.com/user-attachments/assets/df79b4b9-cb78-4a8c-a422-607f0e217cb8" />
+ width="750">
 </p>
 
 ---
@@ -51,7 +52,8 @@ A modern desktop application built with **Python** and **Tkinter** that automati
 ## 📊 File Organization Summary
 
 <p align="center">
-<img src="assets/organized.png" width="750">
+<img <img width="847" height="860" alt="Screenshot 2026-07-07 141003" src="https://github.com/user-attachments/assets/614309c9-e4eb-48ac-a81f-856b58d0f100" />
+ width="750">
 </p>
 
 ---
@@ -59,15 +61,8 @@ A modern desktop application built with **Python** and **Tkinter** that automati
 ## 📄 Generated Report
 
 <p align="center">
-<img src="assets/report.png" width="750">
-</p>
-
----
-
-## ↩️ Undo Operation
-
-<p align="center">
-<img src="assets/undo.png" width="750">
+<img <img width="858" height="861" alt="Screenshot 2026-07-07 141018" src="https://github.com/user-attachments/assets/84e72634-e328-4d46-814c-e3daf377cb87" />
+ width="750">
 </p>
 
 ---
@@ -102,8 +97,7 @@ SmartFileOrganizer/
 ├── history.json
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-└── assets/
+
 ```
 
 ---
@@ -113,7 +107,7 @@ SmartFileOrganizer/
 ## Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Smart-File-Organizer.git
+git clone https://github.com/krushh67/Smart-File-Organizer.git
 ```
 
 ## Navigate to the project
